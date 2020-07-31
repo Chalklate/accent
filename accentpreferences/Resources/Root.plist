@@ -64,6 +64,11 @@
 				<string>Yellow</string>
 				<string>Green</string>
 				<string>Gray</string>
+				<string>Peach</string>
+				<string>Mint</string>
+				<string>Peach Alt</string>
+				<string>Pink Alt</string>
+				<string>Teal Alt</string>
             </array>
             <key>validValues</key>
             <array>
@@ -76,6 +81,11 @@
 				<string>Yellow</string>
 				<string>Green</string>
 				<string>Gray</string>
+				<string>Peach</string>
+				<string>Mint</string>
+				<string>Peach Alt</string>
+                                <string>Pink Alt</string>
+                                <string>Teal Alt</string>
             </array>
 			<key>PostNotification</key>
 			<string>com.ivanc.preferenceschanged</string>
@@ -156,11 +166,11 @@
 			<key>initials</key>
     		<string>GH</string>
 			<key>label</key>
-			<string>Github Repo</string>
+			<string>Github Repo (forked)</string>
 			<key>subtitle</key>
 			<string>Check the source code</string>
 			<key>url</key>
-			<string>https://github.com/ivancristina/accent</string>
+			<string>https://github.com/Chalklate/accent/tree/master</string>
 		</dict>
 		<dict>
 			<key>cellClass</key>

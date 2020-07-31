@@ -26,13 +26,19 @@ void setColor() {
     myColors = @{
         @"Teal" : [UIColor colorWithRed:0.35 green:0.78 blue:0.98 alpha:1.0],
         @"Blue" : [UIColor colorWithRed:0.00 green:0.48 blue:1.00 alpha:1.0],
-        @"Purple" : [UIColor colorWithRed:0.69 green:0.32 blue:0.87 alpha:1.0],
+        @"Purple" : [UIColor colorWithRed:0.73 green:0.70 blue:0.89 alpha:1.0],
         @"Pink" : [UIColor colorWithRed:1.00 green:0.47 blue:0.60 alpha:1.0],
         @"Red" : [UIColor colorWithRed:1.00 green:0.23 blue:0.19 alpha:1.0],
         @"Orange" : [UIColor colorWithRed:1.00 green:0.58 blue:0.00 alpha:1.0],
         @"Yellow" : [UIColor colorWithRed:1.00 green:0.80 blue:0.00 alpha:1.0],
         @"Green" : [UIColor colorWithRed:0.16 green:0.80 blue:0.25 alpha:1.0],
-        @"Gray" : [UIColor colorWithRed:0.00 green:0.00 blue:0.00 alpha:1.0],
+        @"Gray" : [UIColor colorWithRed:0.75 green:0.70 blue:0.75 alpha:1.0],
+	@"Black" : [UIColor colorWithRed:0.00 green:0.00 blue:0.00 alpha:1.0],
+        @"Peach" : [UIColor colorWithRed:1.00 green:0.80 blue:0.65 alpha:1.0],
+	@"Mint" : [UIColor colorWithRed:0.67 green:0.94 blue:0.82 alpha:1.0],
+	@"Peach Alt" : [UIColor colorWithRed:1.00 green:0.70 blue:0.60 alpha:1.0],
+	@"Pink Alt" : [UIColor colorWithRed:1.00 green:0.65 blue:0.60 alpha:1.0],
+	@"Teal Alt" : [UIColor colorWithRed:0.55 green:0.94 blue:0.85 alpha:1.0],
     };
 
     color = [preferences valueForKey:@"isColor"];
